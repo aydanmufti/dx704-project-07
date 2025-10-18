@@ -1,0 +1,11 @@
+Discussed assignment with:
+No one
+
+Libraries used:
+- pandas: For reading TSV files and managing tabular data
+- numpy: For numerical computations and matrix operations
+- scipy.linalg: For solving the discrete-time algebraic Riccati equation (solve_discrete_are)
+- sklearn.linear_model: For linear regression to reverse-engineer control matrices and system dynamics
+
+Additional resources:
+I used the lecture materials provided in the course, including the lecture videos and YouTube videos referenced in the notes like the video on visualizing PID controllers which discussed linear quadratic regulators.
